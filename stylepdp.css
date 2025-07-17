@@ -1,0 +1,14 @@
+.title {
+	font-family: Time_new roman;  
+	font-size:48px;    
+	color:orange; 
+	font-weight:100; 
+	font-style:italic; 
+	text-align:center; 
+	border: 3px blue dotted;
+}
+.image {
+	width: 600px;
+	height: 600px;
+	border: 4px yellow solid;
+}
